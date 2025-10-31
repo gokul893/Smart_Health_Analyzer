@@ -1,0 +1,11 @@
+doctor_id,name,specialization,hospital,experience_years,availability,rating,consultation_fee,phone,email
+1,Dr. Rajesh Kumar,Cardiologist,SRM Hospital,15,Mon-Fri 9AM-5PM,4.8,1000,+91-9876543210,rajesh.kumar@srmist.med.in
+2,Dr. Priya Sharma,Cardiologist,SRM Hospital,12,Mon-Sat 10AM-6PM,4.7,1200,+91-9876543211,priya.sharma@srmist.med.in
+3,Dr. Amit Patel,Endocrinologist,SRM Hospital,18,Tue-Sat 9AM-4PM,4.9,1500,+91-9876543212,amit.patel@srmist.med.in
+4,Dr. Sneha Reddy,Endocrinologist,SRM Hospital,10,Mon-Fri 11AM-7PM,4.6,900,+91-9876543213,sneha.reddy@srmist.med.in
+5,Dr. Vikram Singh,Hepatologist,SRM Hospital,20,Mon-Sat 8AM-2PM,4.9,2000,+91-9876543214,vikram.singh@srmist.med.in
+6,Dr. Anjali Mehta,Hepatologist,SRM Hospital,14,Tue-Fri 10AM-5PM,4.7,1300,+91-9876543215,anjali.mehta@srmist.med.in
+7,Dr. Suresh Iyer,Nephrologist,SRM Hospital,16,Mon-Sat 9AM-5PM,4.8,1100,+91-9876543216,suresh.iyer@srmist.med.in
+8,Dr. Meera Nair,Nephrologist,SRM Hospital,13,Tue-Sat 11AM-6PM,4.6,1000,+91-9876543217,meera.nair@srmist.med.in
+9,Dr. Ravi Verma,General Physician,SRM Hospital,8,Mon-Sat 8AM-8PM,4.5,500,+91-9876543218,ravi.verma@srmist.med.in
+10,Dr. Kavita Desai,General Physician,SRM Hospital,6,Mon-Fri 9AM-9PM,4.4,400,+91-9876543219,kavita.desai@srmist.med.in
