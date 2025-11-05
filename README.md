@@ -32,13 +32,15 @@ The system's core functionality includes:
 
 The system is built entirely in Python, integrating several key libraries and frameworks.
 
-| **Language** : Python 3.8+ - Core programming language |
-| **Web Framework** : Streamlit - Building the interactive user interface |
-| **Machine Learning** : Scikit-learn - Running the five disease prediction models |
-| **Data Handling** : Pandas, NumPy - Data manipulation and preprocessing |
-| **AI / NLP** : Hugging Face Transformers - Powering the LLM for summaries and chat |
-| **Database** : MySQL - Storing user, appointment, and report data |
-| **Data Extraction** : PyMuPDF (fitz), Pytesseract, Pillow, python-docx - Extracting text from PDF, image, and DOCX files |
+| Component | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Language** | Python 3.8+ | Core programming language |
+| **Web Framework** | Streamlit | Building the interactive user interface |
+| **Machine Learning** | Scikit-learn | Running the five disease prediction models |
+| **Data Handling** | Pandas, NumPy | Data manipulation and preprocessing |
+| **AI / NLP** | Hugging Face Transformers | Powering the LLM for summaries and chat |
+| **Database** | MySQL | Storing user, appointment, and report data |
+| **Data Extraction** | PyMuPDF (fitz), Pytesseract, Pillow, python-docx | Extracting text from PDF, image, and DOCX files |
 
 ## 🏗️ System Architecture
 
